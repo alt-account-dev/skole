@@ -1,0 +1,22 @@
+
+body {
+    max-width: 800px;
+	border: solid black;
+	border-width: medium;
+	overflow: hidden;
+	display: block;
+	box-sizing: border-box;
+	padding: 5px;
+}
+
+.ma-0 p {
+    margin: 0;
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    float:right;
+}
